@@ -7,4 +7,5 @@
 ```bash
 brew tap ThomasDanilo96/gpush
 brew install gpush
+test
 
