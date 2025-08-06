@@ -1,8 +1,8 @@
 class Gpush < Formula
   desc "Push your Git repo to multiple remotes and branches interactively"
   homepage "https://github.com/ThomasDanilo96/brew-gpush"
-  url "https://github.com/ThomasDanilo96/homebrew-gpush/archive/d924897b2a246341138531641ef768da1781ab12.tar.gz"
-  sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
+  url "https://github.com/ThomasDanilo96/homebrew-gpush/archive/refs/heads/master.tar.gz"
+  sha256 "da5f997bdd8defacc1a78a724ff296f071d3c2f134d43e0e502cb6853d795ec2"
   version "1.0.0"
 
   def install
