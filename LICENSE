@@ -1,0 +1,22 @@
+
+---
+
+## 🗃 LICENSE
+
+Se vuoi usare **MIT**, copio direttamente quella standard. Oppure dimmi se ne preferisci un'altra (es. GPL, Apache 2.0, ecc).
+
+---
+
+## 📦 STEP 3 – Pubblicazione su GitHub
+
+### 1. Crea repo su GitHub → `brew-gpush`
+
+### 2. Collega e pusha:
+
+```bash
+git init
+git add .
+git commit -m "Initial release of gpush 1.0.0"
+git remote add origin git@github.com:ThomasDanilo96/brew-gpush.git
+git push -u origin master
+
