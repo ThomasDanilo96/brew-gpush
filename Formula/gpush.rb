@@ -3,7 +3,7 @@ class Gpush < Formula
   homepage "https://github.com/ThomasDanilo96/homebrew-gpush"
   url "https://raw.githubusercontent.com/ThomasDanilo96/homebrew-gpush/master/gpush.sh"
   version "1.0.0"
-  sha256 "<DA_CALCOLARE>"
+  sha256 "e57477184fa0b13d099c5f055e3d4300dd0e3d947932a4289dcc3187921ec470"
   license "MIT"
 
   def install
